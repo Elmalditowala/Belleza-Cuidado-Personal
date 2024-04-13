@@ -1,0 +1,23 @@
+.accordion{
+ text-align: center;
+}
+
+.centered-card{
+    text-align: center;
+}
+.card {
+    background-color: #a1bee9;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+.centered-card {
+    width: 18rem; 
+  }
+
+
+
